@@ -1,0 +1,2 @@
+[hooks]
+postinstall = ["./scripts/setup-push-targets.sh"]
